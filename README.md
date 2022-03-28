@@ -1,0 +1,2 @@
+# ugaaska-soomaliyeed
+Educational project
